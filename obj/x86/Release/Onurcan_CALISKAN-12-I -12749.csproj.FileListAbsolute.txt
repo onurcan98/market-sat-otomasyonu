@@ -1,0 +1,55 @@
+C:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN-12-I -12749.exe
+C:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN-12-I -12749.pdb
+C:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\bin\x86\Release\Onurcan_CALISKAN-12-I -12749.exe
+C:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\bin\x86\Release\Onurcan_CALISKAN-12-I -12749.pdb
+C:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN_12_I__12749.degistirmeekrani.resources
+C:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN_12_I__12749.ekle.resources
+C:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN_12_I__12749.Form1.resources
+C:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN_12_I__12749.giris.resources
+C:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN_12_I__12749.kasa.resources
+C:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN_12_I__12749.Properties.Resources.resources
+C:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN_12_I__12749.sifremiunuttum.resources
+C:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN_12_I__12749.stoklar.resources
+C:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN_12_I__12749.yetkili.resources
+C:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN-12-I -12749.csproj.GenerateResource.Cache
+C:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN-12-I -12749.exe.licenses
+C:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN_12_I__12749.destek.resources
+C:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN_12_I__12749.gelirgider.resources
+C:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN_12_I__12749.raporform.resources
+C:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN_12_I__12749.cikisgiris.resources
+C:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN_12_I__12749.enterexitlog.resources
+C:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN_12_I__12749.eklenenurunler.resources
+C:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN_12_I__12749.productlog.resources
+C:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN_12_I__12749.ara.resources
+C:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN_12_I__12749.CustomMsgBox.resources
+H:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN-12-I -12749.exe
+H:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN-12-I -12749.pdb
+H:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\bin\x86\Release\Onurcan_CALISKAN-12-I -12749.exe
+H:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\bin\x86\Release\Onurcan_CALISKAN-12-I -12749.pdb
+H:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\ResolveAssemblyReference.cache
+H:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN_12_I__12749.ara.resources
+H:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN_12_I__12749.cikisgiris.resources
+H:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN_12_I__12749.CustomMsgBox.resources
+H:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN_12_I__12749.degistirmeekrani.resources
+H:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN_12_I__12749.destek.resources
+H:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN_12_I__12749.ekle.resources
+H:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN_12_I__12749.eklenenurunler.resources
+H:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN_12_I__12749.enterexitlog.resources
+H:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN_12_I__12749.Form1.resources
+H:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN_12_I__12749.gelirgider.resources
+H:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN_12_I__12749.giris.resources
+H:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN_12_I__12749.kasa.resources
+H:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN_12_I__12749.productlog.resources
+H:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN_12_I__12749.Properties.Resources.resources
+H:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN_12_I__12749.raporform.resources
+H:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN_12_I__12749.sifremiunuttum.resources
+H:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN_12_I__12749.stoklar.resources
+H:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN_12_I__12749.yetkili.resources
+H:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN-12-I -12749.csproj.GenerateResource.Cache
+H:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN-12-I -12749.exe.licenses
+D:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN-12-I -12749.exe
+D:\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN-12-I -12749.pdb
+C:\Users\onurcan\Desktop\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN-12-I -12749.csproj.AssemblyReference.cache
+C:\Users\onurcan\Desktop\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN-12-I -12749.exe
+C:\Users\onurcan\Desktop\Onurcan_CALISKAN-12-I -12749\Onurcan_CALISKAN-12-I -12749\obj\x86\Release\Onurcan_CALISKAN-12-I -12749.pdb
